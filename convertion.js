@@ -29,7 +29,7 @@ console.log(Math.PI);
 
 // gap
 
-console.log(Math.abs(20-60));
+console.log("abs:",Math.abs(20-60));
 
 // round number / cill
 
@@ -37,10 +37,14 @@ console.log(Math.round(2.88));
 console.log(Math.ceil(4.08));
 
 // random
+
 console.log(Math.random())
 console.log(Math.random()*10)
 const rand = Math.round(Math.random()*10)
 console.log(rand)
+
+
+
 
 
 
